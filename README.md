@@ -11,7 +11,7 @@ This repository contains a simple Ruby function to convert Morse code into text 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/morse-code-converter.git
+   git clone https://github.com/henriquemcmedeiros/morse-code-converter.git
    ```
 2. Run the provided example:
    ```bash
